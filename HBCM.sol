@@ -47,9 +47,7 @@ contract HBCM{
 
     }
 
-    function consesusPBFT(){
-
-    }
+   
 
 
 
