@@ -22,8 +22,6 @@ contract Patient{
         trColl[trNo++]=tr(msg.sender,_hId,_disease,_doctorId); 
     }
 
-    function query() view{
-        
-    }
+   
 
 }
